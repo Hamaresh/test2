@@ -1,4 +1,4 @@
-name: ServiceNow CI/CD Pipeline
+name: ServiceNow CI/CD Pipelines
 
 on:
   push:
